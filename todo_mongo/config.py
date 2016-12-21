@@ -1,0 +1,3 @@
+MONGODB_SETTINGS={'DB': 'todo'}
+SECRET_KEY = 'lanny'
+WTF_CSRF_ENABLED = False
